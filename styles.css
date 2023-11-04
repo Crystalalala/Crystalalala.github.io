@@ -389,10 +389,10 @@ a {
 
 .logo {
     position: absolute;
-    width: 700px;
-    height: 680px;
-    top: 95px;
-    left: 734px;
+    width: 600px;
+    height: 580px;
+    top: 145px;
+    left: 784px;
     object-fit: cover;
 }
 
