@@ -235,8 +235,8 @@ a {
 .logo-2 {
     position: absolute;
     width: 672px;
-    height: 600px;
-    top: 51px;
+    height: 700px;
+    top: 10px;
     left: 764px;
     object-fit: cover;
 }
