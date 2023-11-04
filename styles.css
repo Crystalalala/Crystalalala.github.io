@@ -389,10 +389,10 @@ a {
 
 .logo {
     position: absolute;
-    width: 710px;
-    height: 690px;
-    top: 100px;
-    left: 690px;
+    width: 700px;
+    height: 680px;
+    top: 95px;
+    left: 734px;
     object-fit: cover;
 }
 
@@ -435,7 +435,7 @@ a {
 .about-me {
     display: flex;
     flex-direction: column;
-    width: 588px;
+    width: 580px;
     align-items: flex-start;
     gap: 32px;
     position: absolute;
