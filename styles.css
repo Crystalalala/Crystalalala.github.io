@@ -236,7 +236,7 @@ a {
     position: absolute;
     width: 672px;
     height: 700px;
-    top: 10px;
+    top: 50px;
     left: 764px;
     object-fit: cover;
 }
@@ -389,10 +389,10 @@ a {
 
 .logo {
     position: absolute;
-    width: 744px;
-    height: 700px;
+    width: 710px;
+    height: 690px;
     top: 100px;
-    left: 696px;
+    left: 690px;
     object-fit: cover;
 }
 
